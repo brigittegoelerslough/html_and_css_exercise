@@ -20,7 +20,7 @@ GitHub Pages in its settings)
       */
       .flex-container {
           display: flex;
-          flex-wrap: nowrap;
+          flex-wrap: wrap;
           background-color: orange;
         }
 
